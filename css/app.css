@@ -1,0 +1,23 @@
+
+html, body, .container-fluid {
+  font-family: stencil;
+  height: 100%;
+}
+
+#menu {
+  position: fixed;
+}
+
+#menu ul li {
+  list-style: none;
+  margin-bottom: 2px;
+}
+
+
+.section_content { margin-top: 50px; }
+
+#section1 { background-color: #fff; }
+
+#section2 { background-color: #fff; }
+
+#section3 { background-color: #fff; }
